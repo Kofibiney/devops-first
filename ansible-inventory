@@ -1,3 +1,2 @@
-[targets]
-target-1 ansible_host=10.200.10.75 ansible_user=kofi
-target-2 ansible_host=10.200.10.76 ansible_user=kofi
+10.200.10.75
+10.200.10.76
